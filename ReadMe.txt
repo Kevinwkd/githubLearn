@@ -5,6 +5,8 @@ This is the fourth line of commit
 This is the fifth line of commit
 This is the sixth line of commit
 This is the seventh line of commit
+This is the eighth line of commit
+
 
 This is the first commit of US1234
 This is the second commot of US1234
